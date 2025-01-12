@@ -25,3 +25,9 @@ flutter:
     - assets/avatar.glb
     - assets/tex_u0_v0_diffuse.jpg
     - assets/tex_u0_v0_normal.jpg
+    - assets/icons/favicon.ico
+    - assets/icons/favicon-32x32.png
+    - assets/icons/favicon-16x16.png
+    - assets/icons/apple-touch-icon.png
+    - assets/icons/android-chrome-512x512.png
+    - assets/icons/android-chrome-192x192.png
